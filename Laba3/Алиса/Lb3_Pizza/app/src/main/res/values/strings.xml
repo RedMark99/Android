@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Каморра пицца</string>
+
+    <string-array name="pay">
+        <item>Qivi кошелек</item>
+        <item>Карта Visa</item>
+        <item>Яндекс.Деньги</item>
+        <item>Apple pay</item>
+        <item>Наличными курьеру</item>
+    </string-array>
+</resources>

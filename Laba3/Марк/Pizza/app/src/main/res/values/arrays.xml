@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="payment">
+        <item>Visa</item>
+        <item>Master Card</item>
+        <item>PayPal</item>
+        <item>Qiwi</item>
+        <item>Наличкой</item>
+    </string-array>
+</resources>
